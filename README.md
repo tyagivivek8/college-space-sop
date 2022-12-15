@@ -43,8 +43,3 @@ Announcements Screen:
 - MongoDB
 - Bootstrap
 - Material UI
-
-**_Contact:_**
-- [LinkedIn](https://www.linkedin.com/in/gautam-arora-b2788b191/)
-- [Github](https://github.com/Gautam-Arora24)
-- [Instagram](https://www.instagram.com/gautamarora6248/)
